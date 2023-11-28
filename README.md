@@ -23,5 +23,6 @@ Monster Chase is an engaging Unity-based game that challenges players to navigat
 - Survive as long as possible to achieve the highest score.
 
 ## Demo
-[Character Selection Demo](https://github.com/Lakshan-K/Monster-Chase/assets/105243824/f2f71d74-60db-4b69-963a-9cc5e0208156)
+[Character Selection Demo]
+(https://github.com/Lakshan-K/Monster-Chase/assets/105243824/f2f71d74-60db-4b69-963a-9cc5e0208156)
 
