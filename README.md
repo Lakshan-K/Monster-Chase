@@ -27,3 +27,25 @@ Monster Chase is an engaging Unity-based game that challenges players to navigat
 
 https://github.com/Lakshan-K/Monster-Chase/assets/105243824/f2f71d74-60db-4b69-963a-9cc5e0208156
 
+[Gameplay Demo #1]
+
+https://github.com/Lakshan-K/Monster-Chase/assets/105243824/6b857aa9-f933-4aca-b1a3-b4df050ad463
+
+
+[Gameplay Demo #2]
+
+
+
+https://github.com/Lakshan-K/Monster-Chase/assets/105243824/1df905d3-0393-4fb1-a6ef-1795dc05a16f
+
+[Gameplay Demo #3]
+
+
+
+https://github.com/Lakshan-K/Monster-Chase/assets/105243824/f0c2b311-70f7-4aaf-91ca-be54b8af4190
+
+
+
+
+
+
